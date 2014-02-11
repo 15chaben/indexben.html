@@ -55,6 +55,7 @@
             viewer2.update();
         </script>
         
+    <input type=button stlye="font-size:25px" onClick="{this.location='T3A1Basic.html' }">
         
         
         
